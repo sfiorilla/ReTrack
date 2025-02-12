@@ -1,5 +1,3 @@
 # ReTrack: Reidentification and Tracking
-The inpact of people reidentification models into a track algorithm.
-
-
+The inpact of Person Re-Identification models into tracks algorithm.
 
